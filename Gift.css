@@ -35,45 +35,43 @@
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 986px;
+    min-height: 537px;
   }
 
   .u-section-3 .u-text-1 {
-    margin-top: 362px;
+    width: auto;
+    margin-top: 20px;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-3 .u-image-1 {
-    margin-top: 82px;
+    margin-top: -22px;
+    margin-left: 181px;
   }
 
   .u-section-3 .u-text-2 {
-    margin-left: 0;
-    margin-right: 0;
-    margin-bottom: -12px;
+    width: auto;
+    margin: 20px 0 30px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 665px;
+    min-height: 630px;
   }
 
   .u-section-3 .u-text-1 {
-    width: auto;
     margin-top: 38px;
   }
 
   .u-section-3 .u-image-1 {
-    margin-top: -22px;
     margin-left: 199px;
   }
 
   .u-section-3 .u-text-2 {
-    width: auto;
     margin-top: 38px;
-    margin-bottom: 60px;
+    margin-bottom: 29px;
   }
 }
 
